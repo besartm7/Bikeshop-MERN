@@ -1,9 +1,9 @@
 # Bikeshop-MERN
 Bikeshop - Fullstack MERN Web Application
 
-*Datebase - MongoDB
-*Backend - Nodejs & Expressjs
-*Frontend - Reactjs & Redux
+* Datebase - MongoDB
+* Backend - Nodejs & Expressjs
+* Frontend - Reactjs & Redux
 
 
 Demo: https://bikeshopapp.herokuapp.com
